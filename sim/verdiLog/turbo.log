@@ -1,0 +1,151 @@
+Command Line: /home/cad/eda/SYNOPSYS/VERDI_2022/verdi/T-2022.06-SP1/platform/LINUXAMD64/bin/Novas -ssf wave1.fsdb
+uname(Linux mavenserver-RH2 4.18.0-553.16.1.el8_10.x86_64 #1 SMP Thu Aug 1 04:16:12 EDT 2024 x86_64)
+type= DS_SCOPE element= 2 field= 1
+VERILOG top
+VERILOG if0
+VERILOG dest_mon_cb
+-----
+second field= DebussyLib
+third field= dest_mon_cb
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+-----
+second field= DebussyLib
+third field= src_mon_cb
+type= DS_SIGNAL element= 8 field= 2
+VERILOG top
+VERILOG if0
+VERILOG dest_mon_cb
+VERILOG rstn
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG dest_mon_cb
+VERILOG vld
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG dest_mon_cb
+VERILOG addr[7:0]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG dest_mon_cb
+VERILOG data_in[15:0]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG dest_mon_cb
+VERILOG addr_a[7:0]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG dest_mon_cb
+VERILOG data_a[15:0]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG dest_mon_cb
+VERILOG addr_b[7:0]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG dest_mon_cb
+VERILOG data_b[15:0]
+-----
+second field= signal
+type= DS_STRING
+rstn vld addr[7:0] data_in[15:0] addr_a[7:0] data_a[15:0] addr_b[7:0] data_b[15:0]
+type= DS_SIGNAL element= 1 field= 2
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG addr[7:0]
+-----
+second field= signal
+type= DS_STRING
+addr[7:0]
+type= DS_SIGNAL element= 12 field= 2
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG addr[7]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG addr[6]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG addr[5]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG addr[4]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG addr[3]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG addr[2]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG addr[1]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG addr[0]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG rstn
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG vld
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG addr[7:0]
+-----
+second field= signal
+VERILOG top
+VERILOG if0
+VERILOG src_mon_cb
+VERILOG data_in[15:0]
+-----
+second field= signal
+type= DS_STRING
+addr[7] addr[6] addr[5] addr[4] addr[3] addr[2] addr[1] addr[0] rstn vld addr[7:0] data_in[15:0]
+au time 695.380950 9.970714 7.979810 delta 339595264 339595264 total 867258368 867258368
